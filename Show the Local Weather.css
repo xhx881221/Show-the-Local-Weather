@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+
+body .dataOfHead {
+  display: inline;
+  font-size: 26px;
+  margin: 0px 10px 20px 10px;
+}
+
+body .dataOfBody {
+  display: inline;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+h1 {
+  color: orange;
+  font-size: 35px;
+}
+
+h4 {
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 15px;
+  display: inline
+}
